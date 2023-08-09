@@ -1,1 +1,1 @@
-# Kohya-Lora
+# Kohya-Lora-Colab
